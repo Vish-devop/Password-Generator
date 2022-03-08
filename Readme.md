@@ -8,6 +8,8 @@ In Password_Generator, we would be taking input as:
 
 Implementation of Password_Generator.
 
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/73271016/157238801-5ff19389-7d91-49d0-9ce0-d5b62352e5e4.png">
+
 
 --> Here, I used two special built-ins :
 (1) random.choice: This method return the randomly selected element from the specified sequence.
@@ -16,4 +18,4 @@ Implementation of Password_Generator.
 >> I used random.choice in taking a random char from letter, numbers, symbols for my password.
 
 (2) random.shuffle: shuffle() method takes a sequence, like a list, and reorganize the order of the items.
-<< This method only changes the original list, it does not return a new list.>>
+>> This method only changes the original list, it does not return a new list. 
